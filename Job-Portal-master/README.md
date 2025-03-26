@@ -56,12 +56,13 @@ python .\manage.py runserver
 
 ```
 ***mainly if not done and getting error do pip install pillow in cmd it is one ofthe library
+
  6. Default it will run on port 8000
  7. open browser and type in url  http://127.0.0.1:8000/
  8. to see the admin control http://127.0.0.1:8000/admin  
  9. username is myjob and password is myjob
  10. To Edit the name and info in footer goto core->templates->core->footer.html  then u can edit your information.
-
+ 11.contact me if any error harshith ph no:9347849192
  
 
 ### ScreenShots
